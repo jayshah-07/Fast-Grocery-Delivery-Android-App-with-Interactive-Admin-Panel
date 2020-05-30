@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "37533452916",
+    "firebase_url": "https://festvid-33316.firebaseio.com",
+    "project_id": "festvid-33316",
+    "storage_bucket": "festvid-33316.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37533452916:android:e01f739aa080f560af1f21",
+        "android_client_info": {
+          "package_name": "com.best.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMR2OG4ReUC0cnHkdixMqYobg_-tY7P74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37533452916:android:0054fd3fafb0d9dbaf1f21",
+        "android_client_info": {
+          "package_name": "com.festvid.feelthebeats.videolyrics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMR2OG4ReUC0cnHkdixMqYobg_-tY7P74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37533452916:android:02876ce5c37448b1af1f21",
+        "android_client_info": {
+          "package_name": "com.grocery.shope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMR2OG4ReUC0cnHkdixMqYobg_-tY7P74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37533452916-hrgl8fc8gf8bslqevr55556b9qmuo4q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
